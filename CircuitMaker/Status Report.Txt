@@ -1,0 +1,16 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 16:30:23 On 13/05/2020
+
+Output: Gerber
+Type  : Gerber
+From  : Variant [[No Variations]] of PCB Document [PCB_AllBottom.CMPcbDoc]
+   Generated File[PCB_AllBottom.RUL]
+   Generated File[PCB_AllBottom.EXTREP]
+   Generated File[PCB_AllBottom.REP]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 16:30:24 On 13/05/2020
